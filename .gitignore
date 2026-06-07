@@ -1,0 +1,18 @@
+# Playwright
+node_modules/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+/playwright-mcp/
+dist/
+
+# Credentials & secrets
+.env
+credentials.json
+token.json
+
+# IDE & OS
+.claude/
+.DS_Store
+*.log
